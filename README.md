@@ -1,5 +1,7 @@
-Awesome-RSPapers
+Awesome-RSPapers-fine-grained
 ================
+
+`fine-grained`means there will be additional classification and note on following papers.
 
 Included Conferences: SIGIR 2020, SIGKDD 2020, RecSys 2020, CIKM 2020,
 AAAI 2021, WSDM 2021, WWW 2021, SIGIR 2021
